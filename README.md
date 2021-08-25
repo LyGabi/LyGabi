@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LyGabi
-- 👀 I’m interested in Full-Stack Development
+- 👀 I’m interested in Web Development (currently working on Front-End)
 - 🌱 I’m currently learning Java, JavaScript and Python
 - 💞️ I’m looking to collaborate on various types of projects that could benefit me in learning the above mentioned languages :)
 
