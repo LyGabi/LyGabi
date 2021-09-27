@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LyGabi
-- 👀 I’m interested in Web Development (currently working on Front-End)
--         More recently, I also have been intrigued by Software Development!
-- 🌱 I’m currently learning Java, JavaScript and Python (mainly focusing on the first two mentioned)
+- 👀 I'm studying Computer Science at the moment, so I am discovering new areas in the field and assessing which interest me the most :D
+- 🌱 I’m currently learning Java, SQL and Python.
 - 💞️ I’m looking to collaborate on various types of projects that could benefit me in learning the above mentioned languages :)
 
 <!---
